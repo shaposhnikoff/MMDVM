@@ -52,6 +52,17 @@
 #define ARDUINO_DUE_ZUM_V10
 #endif
 
+
+#define MODE_LEDS
+#define STM32F4_NUCLEO_MORPHO_HEADER
+#define SEND_RSSI_DATA
+#define SERIAL_REPEATER
+#define USE_DCBLOCKER
+#define USE_ALTERNATE_POCSAG_LEDS
+
+
+
+
 // For the SP8NTH board
 // #define ARDUINO_DUE_NTH
 
